@@ -43,6 +43,29 @@ Design Responsivo estruturado em Flexbox e Grid Layout, com media queries otimiz
   - PWA (Progressive Web App) com Service Workers, permitindo acesso offline.
   - Estrutura acessível (WCAG 2.1) e otimizada para SEO com HTML5 semântico.
 
+### 🌐 **HWNet Provedor de Internet (Minas Gerais)**
+Desenvolvimento de soluções web e automação de redes para otimizar a eficiência operacional e a experiência do cliente.
+
+#### **Desenvolvimento de Soluções Web:**
+- **Portais Responsivos**: Utilização de **HTML5**, **CSS3**, **JavaScript**, e frameworks como **React** e **Vue.js** para interfaces dinâmicas.
+- **Integração de APIs**: Comunicação eficiente com **APIs RESTful** e **GraphQL** para fluxo ágil de dados.
+- **Progressive Web Apps (PWA)**: Funcionalidades offline e acesso flexível para clientes.
+
+#### **Automação de Redes:**
+- **Scripts Mikrotik**: Gerenciamento de tráfego e filas dinâmicas em tempo real.
+- **Monitoramento Automatizado**: Uso de **SNMP** e **NetFlow** para detecção rápida de incidentes.
+- **VLANs e QoS**: Priorização de tráfego crítico para uma experiência de alta qualidade.
+
+#### **Sistemas de Gerenciamento:**
+- **Painéis de Controle**: Monitoramento de **KPIs** em tempo real com **Grafana** e **Prometheus**.
+- **Automação de Provisionamento**: Integração de CRM para gerenciamento de assinaturas e faturamento.
+- **Segurança de Rede**: Firewalls, VPNs, e monitoramento de DDoS para proteger a infraestrutura.
+
+#### **Otimização de Performance:**
+- **Caching e Balanceamento de Carga**: Uso de **HAProxy** e **Nginx** para alta disponibilidade.
+- **CDNs**: Distribuição eficiente de conteúdo para melhorar o tempo de resposta.
+- **Machine Learning**: Análise preditiva para otimização proativa da rede.
+
 ---
 
 ## 💡 **Inovando Agora**
