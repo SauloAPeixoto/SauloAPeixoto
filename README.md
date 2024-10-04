@@ -36,7 +36,7 @@ Este repositório é dedicado aos meus projetos em **automação de redes**, **a
 - 🏡 **Automação Residencial**: Implementação de controle remoto de dispositivos utilizando protocolos, integração de sistemas para automação e monitoramento de ambientes.
 
 
-### 🎨 **Desenvolvimento de Interfaces**
+### ✨ **Desenvolvimento de Interfaces**
 - **Aurora (Xbox 360)**: Desenvolvimento de interfaces personalizadas utilizando **linguagens binárias (.xur)** e a **aplicação Neighborhood**, garantindo uma navegação fluida e otimizada.
 
 ### 🎨 **Desenvolvimento WEB**
