@@ -42,7 +42,6 @@ Este repositório é dedicado aos meus projetos em **automação de redes**, **a
 ### 🎨 **Desenvolvimento WEB**
 
 - 🗂️ **Criação de Site e APP**: Focado na criação responsiva e automatizada para gerenciamento de serviços, integrando frontend moderno com backend escalável e APIs.
-- 🔥 **Velaire**: Website interativo com **animações dinâmicas** e **design responsivo**.
 
 ---
 
