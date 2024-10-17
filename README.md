@@ -1,17 +1,25 @@
-  ## 🔥 GitHub Streak
+## 🔥 GitHub Streak
 <div style="text-align: center; margin-top: 20px;">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SauloAPeixoto&theme=highcontrast)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&theme=highcontrast" alt="GitHub Streak" />
+    </a>
+</div>
 
 ## 🛠️ Frontend Skills
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-    <img alt="HTML" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="JavaScript" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Mikrotik" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://static-00.iconduck.com/assets.00/mikrotik-icon-1921x2048-1eai97he.png">
-    <img alt="Zabbix" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
-    <img alt="Windows Server" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Windows_logo_-_2012_%28dark_blue%2C_lines_thinner%29.svg">
+
+<img alt="HTML" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img alt="CSS" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img alt="JavaScript" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img alt="Mikrotik" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://static-00.iconduck.com/assets.00/mikrotik-icon-1921x2048-1eai97he.png">
+
+<img alt="Zabbix" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
+
+<img alt="Windows Server" height="40" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Windows_logo_-_2012_%28dark_blue%2C_lines_thinner%29.svg">
 
 </div>
 </div>
@@ -19,21 +27,18 @@
 ## 🎨 Design Skills
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-
   <!-- Photoshop Avançado -->
   <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" alt="Photoshop" width="50" height="50" />
     <p><strong>Photoshop</strong></p>
     <p>Nível: Avançado 💪</p>
   </div>
-
   <!-- CorelDRAW Avançado -->
   <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/452/coreldraw.png" alt="CorelDRAW" width="50" height="50" />
     <p><strong>CorelDRAW</strong></p>
     <p>Nível: Avançado 🎯</p>
   </div>
-
   <!-- Canva Credo -->
   <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/452/canva.png" alt="Canva" width="50" height="50" />
@@ -44,105 +49,95 @@
 
 
 ## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SauloAPeixoto&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<div style="text-align: center; margin-top: 20px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=SauloAPeixoto&theme=onedark&no-frame=true&row=1" alt="GitHub Achievements" />
+    </a>
+</div>
 
 ## 🛠️ Tools & Platforms
-
-![VSCode Badge](https://img.shields.io/badge/VSCode-Favorite-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-Server-yellow?style=for-the-badge&logo=linux)
-![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-Hosting-blue?style=for-the-badge&logo=github)
----
+<div style="text-align: center; margin-top: 20px;">
+    <img src="https://img.shields.io/badge/VSCode-Favorite-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Linux-Server-yellow?style=for-the-badge&logo=linux" alt="Linux Badge" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-Hosting-blue?style=for-the-badge&logo=github" alt="GitHub Pages Badge" style="margin: 0 10px;" />
+</div>
 
 ---
 
 ## 🌟 **Projetos em Destaque**
-
+<div style="text-align: center;">
 
 ### [Velaire Website](https://velaire.com.br)
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/velaire.com.br.svg)](https://velaire.com.br)
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)
-
-> **Description:** Website for the Velaire brand, showcasing aromatic candles and more.
-
+<a href="https://velaire.com.br">
+        <img src="https://img.shields.io/website-up-down-green-red/http/velaire.com.br.svg" alt="Website Status" />
+    </a>
+    <img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
+    <p><strong>Description:</strong> Website for the Velaire brand, showcasing aromatic candles and more.</p>
+</div>
+    <div style="text-align: center;">
+    
 ### [HWNET Website](https://hwnet.com.br) e [HWNET APP]()
-
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/hwnet.com.br.svg)](https://hwnet.com.br)
-![React.js](https://img.shields.io/badge/React.js-16.13.1-blue?style=flat-square&logo=react)
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)
-![MariaDB](https://img.shields.io/badge/MariaDB-10.5.9-blue?style=flat-square&logo=mariadb)
-![PHP](https://img.shields.io/badge/PHP-7.4-purple?style=flat-square&logo=php)
-![Debian](https://img.shields.io/badge/Debian-10-red?style=flat-square&logo=debian)
-
-> **Description:**  WEB System for Internet service provider dedicated to delivering reliable and high-speed internet solutions.
-
-### [Network Monitoring System]()
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red?style=flat-square&logo=zabbix)
-![Grafana](https://img.shields.io/badge/Grafana-7.3.6-orange?style=flat-square&logo=grafana)
-![Mikrotik](https://img.shields.io/badge/Mikrotik-Router-blue?style=flat-square&logo=mikrotik)
-![Kibana](https://img.shields.io/badge/Kibana-7.10.1-pink?style=flat-square&logo=kibana)
-
-> **Description:** A complete network monitoring solution using Zabbix and Mikrotik routers.
-
-## 💼 Skills I'm Confident In
-![HTML](https://img.shields.io/badge/HTML-Expert-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript)
-![Linux](https://img.shields.io/badge/Linux-Advanced-yellowgreen?style=flat-square&logo=linux)
-
-
-### 🏢 **Automação Empresarial**  
-
-- 🛡️ **Redes Inteligentes**: Soluções de automação de redes com scripts personalizados para **Mikrotik**.
-- 📊 **Monitoramento de Redes**: Implementação de **Zabbix**, **Grafana**, **Kibana** e **The Dude** para monitorar redes, servidores e serviços.
-
-### 🏡 **Automação Residencial**  
-- 🏡 **Automação Residencial**: Implementação de controle remoto de dispositivos utilizando protocolos, integração de sistemas para automação e monitoramento de ambientes.
-
-
-### ✨ **Desenvolvimento de Interfaces**
-- **Aurora (Xbox 360)**: Desenvolvimento de interfaces personalizadas utilizando **linguagens binárias (.xur)** e a **aplicação Neighborhood**, garantindo uma navegação fluida e otimizada.
-
-### 🎨 **Desenvolvimento WEB**
-
-- 🗂️ **Criação de Site e APP**: Focado na criação responsiva e automatizada para gerenciamento de serviços, integrando frontend moderno com backend escalável e APIs.
-
-### **XUR/XUI Development for Xbox 360**
-![Platform Status](https://img.shields.io/badge/Platform-Xbox%20360-green?style=flat-square&logo=xbox)
-![XUR Development](https://img.shields.io/badge/XUR-Development-brightgreen?style=flat-square&logo=xbox)
-![XUI Development](https://img.shields.io/badge/XUI-Development-brightgreen?style=flat-square&logo=xbox)
-![SQLite](https://img.shields.io/badge/SQLite-3-blue?style=flat-square&logo=sqlite)
-![Xbox Neighborhood](https://img.shields.io/badge/Xbox-Neighborhood-darkgreen?style=flat-square&logo=xbox)
-![Binary Codes](https://img.shields.io/badge/Codes-Binary-blue?style=flat-square)
-![XML](https://img.shields.io/badge/XML-Data-orange?style=flat-square&logo=xml)
-![.meta Files](https://img.shields.io/badge/.meta-Files-red?style=flat-square)
-![.fx Files](https://img.shields.io/badge/.fx-Files-darkblue?style=flat-square)
-
----
-
-## 💡 **Em Desenvolvimento**
-
-- 🤖 **Machine Learning** aplicado à automação de redes.
-- 🎥 **Animações Web** com **GSAP** e **Three.js** para experiências visuais interativas.
-- 🗃️ **Otimização SQL**: Tuning e otimização de queries para melhor performance.
-- 🌐 **Automação Residencial Avançada**: Integração de dispositivos IoT com tecnologias remotas.
-- 📊 **Teste A/B**: Análise e melhoria contínua de layouts e usabilidade.
-
----
-
-## 🌐 **Conecte-se Comigo**
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulopeixoto)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/364898255525642243)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SauloAPeixoto)
-  [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saulo_peixoto)
-
+<a href="https://hwnet.com.br">
+        <img src="https://img.shields.io/website-up-down-green-red/http/hwnet.com.br.svg" alt="Website Status" />
+    </a>
+    <img src="https://img.shields.io/badge/React.js-16.13.1-blue?style=flat-square&logo=react" alt="React.js" />
+    <img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/MariaDB-10.5.9-blue?style=flat-square&logo=mariadb" alt="MariaDB" />
+    <img src="https://img.shields.io/badge/PHP-7.4-purple?style=flat-square&logo=php" alt="PHP" />
+    <img src="https://img.shields.io/badge/Debian-10-red?style=flat-square&logo=debian" alt="Debian" />
+    <p><strong>Description:</strong> WEB System for Internet service provider dedicated to delivering reliable and high-speed internet solutions.</p>
 </div>
 
-📧 **E-mail:** [saulopeixoto@example.com](mailto:saulopeixoto@example.com)
+<div style="text-align: center;">
+
+### [Network Monitoring System]()
+<img src="https://img.shields.io/badge/Zabbix-Monitoring-red?style=flat-square&logo=zabbix" alt="Zabbix" />
+<img src="https://img.shields.io/badge/Grafana-7.3.6-orange?style=flat-square&logo=grafana" alt="Grafana" />
+<img src="https://img.shields.io/badge/Mikrotik-Router-blue?style=flat-square&logo=mikrotik" alt="Mikrotik" />
+<img src="https://img.shields.io/badge/Kibana-7.10.1-pink?style=flat-square&logo=kibana" alt="Kibana" />
+<p><strong>Description:</strong> A complete network monitoring solution using Zabbix and Mikrotik routers.</p>
+</div>
+
+## 💼 Skills I'm Confident In
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/HTML-Advanced-orange?style=flat-square&logo=html5" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-Advanced-blue?style=flat-square&logo=css3" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-Intermediate-green?style=flat-square&logo=react" alt="React" />
+    <img src="https://img.shields.io/badge/PHP-Intermediate-purple?style=flat-square&logo=php" alt="PHP" />
+    <img src="https://img.shields.io/badge/MariaDB-Intermediate-blue?style=flat-square&logo=mariadb" alt="MariaDB" />
+    <img src="https://img.shields.io/badge/Zabbix-Intermediate-red?style=flat-square&logo=zabbix" alt="Zabbix" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/saulopeixoto/" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://github.com/SauloAPeixoto" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
+    </a>
+    <a href="https://www.instagram.com/saulo_peixoto" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+    </a>
+    <a href="https://www.facebook.com/saulopeixoto" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    </a>
+    <a href="https://wa.me/5531983533294" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+    </a>
+</div>
+</div>
+
+    
+</div>
+
+
+
+---
