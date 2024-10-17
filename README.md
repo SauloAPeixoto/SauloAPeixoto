@@ -32,10 +32,6 @@
     <img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" alt="Photoshop" width="50" height="50" />
     <p><strong>Photoshop</strong></p>
     <p>Nível: Avançado 💪</p>
-  </div>
-
-  <!-- CorelDRAW Avançado -->
-  <div style="text-align: center; margin: 10px; flex: 1 1 30%;">
     <img src="https://img.icons8.com/color/452/coreldraw.png" alt="CorelDRAW" width="50" height="50" />
     <p><strong>CorelDRAW</strong></p>
     <p>Nível: Avançado 🎯</p>
