@@ -28,14 +28,14 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <!-- Photoshop Avançado -->
-  <div style="text-align: center; margin: 10px;">
+  <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <img src="https://img.icons8.com/color/452/adobe-photoshop--v1.png" alt="Photoshop" width="50" height="50" />
     <p><strong>Photoshop</strong></p>
     <p>Nível: Avançado 💪</p>
   </div>
     
   <!-- CorelDRAW Avançado -->
-  <div style="text-align: center; margin: 10px;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <img src="https://img.icons8.com/color/452/coreldraw.png" alt="CorelDRAW" width="50" height="50" />
     <p><strong>CorelDRAW</strong></p>
     <p>Nível: Avançado 🎯</p>
@@ -50,7 +50,7 @@
 </div>
 
 ## 🏆 GitHub Achievements
-<div style="text-align: center; margin-top: 20px;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=SauloAPeixoto&theme=onedark&no-frame=true&row=1" alt="GitHub Achievements" />
     </a>
