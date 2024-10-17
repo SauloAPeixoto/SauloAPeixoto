@@ -5,7 +5,7 @@
     </a>
 </div>
 
-## 🛠️ Frontend Skills
+## 🛠️ Frontend / Backend
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
@@ -33,12 +33,14 @@
     <p><strong>Photoshop</strong></p>
     <p>Nível: Avançado 💪</p>
   </div>
+    
   <!-- CorelDRAW Avançado -->
   <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/452/coreldraw.png" alt="CorelDRAW" width="50" height="50" />
     <p><strong>CorelDRAW</strong></p>
     <p>Nível: Avançado 🎯</p>
   </div>
+  
   <!-- Canva Credo -->
   <div style="text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/452/canva.png" alt="Canva" width="50" height="50" />
@@ -46,7 +48,6 @@
     <p>Nível: Credo 🤯</p>
   </div>
 </div>
-
 
 ## 🏆 GitHub Achievements
 <div style="text-align: center; margin-top: 20px;">
