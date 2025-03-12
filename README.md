@@ -1,12 +1,3 @@
-## 🔥 GitHub Streak
-<div style="text-align: center; margin-top: 20px;">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&theme=highcontrast" alt="GitHub Streak" />
-    </a>
-</div>
-
----
-
 ## 🤝 Let's Connect
 <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/saulopeixoto/" style="margin: 0 10px;">
