@@ -1,45 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="480" viewBox="0 0 860 480">
-  <defs>
-    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#11111f"/>
-      <stop offset="1" stop-color="#0a0a14"/>
-    </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#7c5cff"/>
-      <stop offset=".5" stop-color="#00e5ff"/>
-      <stop offset="1" stop-color="#ff4fd8"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="470" viewBox="0 0 860 470">
   <style>
-    text { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size: 16px; fill: #d6d6f5; white-space: pre; }
-    .k { fill: #ff4fd8 } .v { fill: #00e5ff } .s { fill: #a6ff8f } .c { fill: #6b6f94 } .p { fill: #c9a6ff } .o { fill: #ffcf5c }
-    .ln { animation: type .45s steps(24) backwards; }
+    text { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size: 15px; fill: #d1d5db; }
+    .k { fill: #f3f4f6; font-weight: 700 } .s { fill: #8fb4ff } .c { fill: #6b7280 } .m { fill: #9ca3af } .h { fill: #6b7280; font-size: 12px; letter-spacing: 1.5px }
+    .ln { animation: type .5s steps(20) backwards; }
     @keyframes type { from { opacity: 0; clip-path: inset(0 100% 0 0) } to { opacity: 1; clip-path: inset(0 0 0 0) } }
+    .row { animation: row .4s ease-out backwards; }
+    @keyframes row { from { opacity: 0; transform: translateX(-8px) } to { opacity: 1; transform: none } }
     .cur { animation: blink 1s steps(1) infinite }
     @keyframes blink { 50% { opacity: 0 } }
   </style>
 
-  <rect x="1" y="1" width="858" height="478" rx="16" fill="url(#win)" stroke="url(#edge)" stroke-width="1.5" stroke-opacity=".7"/>
-  <rect x="1" y="1" width="858" height="44" rx="16" fill="#ffffff" fill-opacity=".03"/>
-  <circle cx="28" cy="23" r="7" fill="#ff5f57"/>
-  <circle cx="52" cy="23" r="7" fill="#febc2e"/>
-  <circle cx="76" cy="23" r="7" fill="#28c840"/>
-  <text x="430" y="28" text-anchor="middle" style="font-size:13px" class="c">saulo.js — node</text>
+  <rect x=".5" y=".5" width="859" height="469" rx="14" fill="#0d0e11" stroke="#ffffff" stroke-opacity=".1"/>
+  <path d="M.5 44.5 H859.5" stroke="#ffffff" stroke-opacity=".07"/>
+  <circle cx="26" cy="22" r="6" fill="#3a3d44"/>
+  <circle cx="46" cy="22" r="6" fill="#3a3d44"/>
+  <circle cx="66" cy="22" r="6" fill="#3a3d44"/>
+  <text x="430" y="27" text-anchor="middle" class="c" style="font-size:12px">saulo.sql — psql</text>
 
-  <g transform="translate(32 88)">
-    <text class="ln" y="0"   style="animation-delay:.2s"><tspan class="c">// quem sou eu, em código</tspan></text>
-    <text class="ln" y="30"  style="animation-delay:.6s"><tspan class="k">const</tspan> <tspan class="v">saulo</tspan> = {</text>
-    <text class="ln" y="58"  style="animation-delay:1.0s">  <tspan class="p">cargo</tspan>: <tspan class="s">"Desenvolvedor Full Stack"</tspan>,</text>
-    <text class="ln" y="86"  style="animation-delay:1.4s">  <tspan class="p">base</tspan>: <tspan class="s">"Brasil"</tspan>,</text>
-    <text class="ln" y="114" style="animation-delay:1.8s">  <tspan class="p">linguagens</tspan>: [<tspan class="s">"Lua"</tspan>, <tspan class="s">"JavaScript"</tspan>, <tspan class="s">"SQL"</tspan>],</text>
-    <text class="ln" y="142" style="animation-delay:2.2s">  <tspan class="p">especialidades</tspan>: [</text>
-    <text class="ln" y="170" style="animation-delay:2.6s">    <tspan class="s">"Sistemas para servidores de roleplay"</tspan>,</text>
-    <text class="ln" y="198" style="animation-delay:3.0s">    <tspan class="s">"Interfaces imersivas e responsivas"</tspan>,</text>
-    <text class="ln" y="226" style="animation-delay:3.4s">    <tspan class="s">"CDN · Cloudflare R2 · Workers"</tspan>,</text>
-    <text class="ln" y="254" style="animation-delay:3.8s">  ],</text>
-    <text class="ln" y="282" style="animation-delay:4.2s">  <tspan class="p">combustivel</tspan>: <tspan class="o">Infinity</tspan>, <tspan class="c">// café</tspan></text>
-    <text class="ln" y="310" style="animation-delay:4.6s">};</text>
-    <text class="ln" y="338" style="animation-delay:5.0s"><tspan class="v">❯</tspan> <tspan class="k">saulo</tspan>.<tspan class="v">contratar</tspan>()  <tspan class="c">// → Discord: saulopeixoto.</tspan></text>
-    <rect class="cur" x="0" y="350" width="10" height="20" fill="#00e5ff"/>
+  <g transform="translate(32 82)">
+    <text class="ln" y="0"   style="animation-delay:.2s"><tspan class="c">-- quem sou eu, em uma query</tspan></text>
+    <text class="ln" y="28"  style="animation-delay:.7s"><tspan class="k">SELECT</tspan> area, foco, stack</text>
+    <text class="ln" y="52"  style="animation-delay:1.2s"><tspan class="k">FROM</tspan>   saulo.competencias</text>
+    <text class="ln" y="76"  style="animation-delay:1.7s"><tspan class="k">WHERE</tspan>  impacto <tspan class="m">&gt;</tspan> <tspan class="s">'opinião'</tspan></text>
+    <text class="ln" y="100" style="animation-delay:2.2s"><tspan class="k">ORDER BY</tspan> relevancia <tspan class="k">DESC</tspan>;</text>
+
+    <!-- table -->
+    <g transform="translate(0 132)">
+      <g class="row" style="animation-delay:2.8s">
+        <text class="h" x="0" y="0">AREA</text>
+        <text class="h" x="230" y="0">FOCO</text>
+        <text class="h" x="520" y="0">STACK</text>
+        <line x1="0" y1="12" x2="796" y2="12" stroke="#ffffff" stroke-opacity=".12"/>
+      </g>
+      <g class="row" style="animation-delay:3.1s">
+        <text x="0" y="40">Engenharia de Dados</text><text x="230" y="40" class="m">pipelines, ETL, modelagem</text><text x="520" y="40" class="s">SQL · Python</text>
+      </g>
+      <g class="row" style="animation-delay:3.4s">
+        <text x="0" y="70">Análise &amp; KPIs</text><text x="230" y="70" class="m">métricas que viram decisão</text><text x="520" y="70" class="s">SQL · dashboards</text>
+      </g>
+      <g class="row" style="animation-delay:3.7s">
+        <text x="0" y="100">Front-end</text><text x="230" y="100" class="m">interfaces e interações</text><text x="520" y="100" class="s">React · JS · CSS</text>
+      </g>
+      <g class="row" style="animation-delay:4.0s">
+        <text x="0" y="130">Cloud &amp; Edge</text><text x="230" y="130" class="m">entrega rápida de dados</text><text x="520" y="130" class="s">Cloudflare R2 · Workers</text>
+      </g>
+      <g class="row" style="animation-delay:4.3s">
+        <text x="0" y="160">Sistemas sob medida</text><text x="230" y="160" class="m">servidores e automações</text><text x="520" y="160" class="s">Lua · Node.js</text>
+      </g>
+      <g class="row" style="animation-delay:4.7s">
+        <text x="0" y="196" class="c">(5 linhas)  tempo: 0.42 ms</text>
+      </g>
+      <g class="row" style="animation-delay:5.0s">
+        <text x="0" y="226"><tspan class="s">saulo=#</tspan></text>
+        <rect class="cur" x="74" y="213" width="9" height="18" fill="#d1d5db"/>
+      </g>
+    </g>
   </g>
 </svg>
