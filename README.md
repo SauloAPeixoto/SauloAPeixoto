@@ -175,12 +175,16 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 
 ### `06` &nbsp;Contato
 
+<div align="center">
+
 Tem dados espalhados e precisa de indicadores confiáveis? Um dashboard que as pessoas realmente usem? Vamos conversar.
 
 <a href="https://www.linkedin.com/in/saulopeixoto/"><img src="https://img.shields.io/badge/LinkedIn-111318?style=for-the-badge&logo=linkedin&logoColor=E5E7EB" /></a>
 <a href="https://www.instagram.com/saulo_peixoto"><img src="https://img.shields.io/badge/Instagram-111318?style=for-the-badge&logo=instagram&logoColor=E5E7EB" /></a>
 <a href="https://discord.com/users/saulopeixoto."><img src="https://img.shields.io/badge/Discord-saulopeixoto.-111318?style=for-the-badge&logo=discord&logoColor=E5E7EB" /></a>
 <img src="https://komarev.com/ghpvc/?username=SauloAPeixoto&color=111318&style=for-the-badge&label=VISITAS" />
+
+</div>
 
 <br>
 
