@@ -56,7 +56,7 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 
 ### `03` &nbsp;Stack
 
-<img src="./assets/stack.svg?v=1" alt="Stack: Python, SQL, MySQL, PostgreSQL, SQLite, JavaScript, React, HTML5, CSS, Node.js, Express, Lua, Cloudflare, R2, Workers, Git, GitHub, VS Code, Figma" width="100%" />
+<img src="./assets/stack.svg?v=2" alt="Stack: Python, SQL, MySQL, PostgreSQL, SQLite, JavaScript, TypeScript, React, Refine, HTML5, CSS, Node.js, Express, Lua, RedM, Cloudflare, R2, Workers, Git, GitHub, VS Code, ESLint" width="100%" />
 
 <br>
 
@@ -91,7 +91,7 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
       <img src="./assets/downtown-roleplay.png" alt="Logo Downtown Roleplay" height="96" align="left" />
       &nbsp;&nbsp;<sub><code>ECOSSISTEMA</code> &nbsp; <code>3 REPOSITÓRIOS</code></sub>
       <h3>&nbsp;&nbsp;Downtown Roleplay</h3>
-      <sub>&nbsp;&nbsp;Site · Sistema interno de Dev · Servidor de jogo</sub>
+      <sub>&nbsp;&nbsp;Site · Sistema interno de Dev · Servidor RedM</sub>
       <br clear="left"><br>
       <p>Mais do que um servidor de roleplay, a Downtown é um <b>ecossistema completo</b> que eu desenvolvo e mantenho de ponta a ponta. São três frentes em repositórios separados, que funcionam como um produto só: o <b>site</b> é a porta de entrada da comunidade, o <b>sistema interno de Dev</b> organiza o trabalho da equipe por trás do projeto e o <b>servidor</b> entrega a experiência dentro do jogo. Cada parte tem sua própria stack, mas todas compartilham a mesma base de dados, identidade visual e padrão de código.</p>
     </td>
@@ -108,17 +108,17 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
     <td width="33%" valign="top">
       <sub><code>02 · SISTEMA INTERNO</code></sub>
       <h4>Plataforma de Dev</h4>
-      <sub>Ferramenta interna da equipe para acompanhar o desenvolvimento: organização de tarefas, controle de versões e dados que apoiam as decisões do projeto.</sub>
+      <sub>Painel interno da equipe construído com Refine e TypeScript: gestão do projeto, dados centralizados e um front-end padronizado com lint para manter a base de código consistente.</sub>
       <br><br>
-      <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
+      <img src="https://img.shields.io/badge/TypeScript-16181D?style=flat-square&logo=typescript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Refine-16181D?style=flat-square&logo=refine&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/ESLint-16181D?style=flat-square&logo=eslint&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
       <br><br>
     </td>
     <td width="33%" valign="top">
       <sub><code>03 · SERVIDOR</code></sub>
-      <h4>Servidor de jogo</h4>
+      <h4>Servidor RedM</h4>
       <sub>Repositório próprio com os sistemas de gameplay, as interfaces (NUI) e a integração com o banco de dados, tudo feito sob medida para a cidade.</sub>
       <br><br>
-      <img src="https://img.shields.io/badge/FiveM-16181D?style=flat-square&logo=fivem&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
+      <img src="https://img.shields.io/badge/RedM-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/TypeScript-16181D?style=flat-square&logo=typescript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" />
       <br><br>
     </td>
   </tr>
@@ -134,17 +134,32 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 
 <table>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <br>
-      <img src="./assets/kahlinize-studios.png" alt="Logo Kahlinize Studios" height="96" align="left" />
+      <img src="./assets/kahlinize-studios.png" alt="Logo Kahlinize Studios" height="72" align="left" />
       &nbsp;&nbsp;<sub><code>SITE INSTITUCIONAL</code></sub>
       <h3>&nbsp;&nbsp;Kahlinize Studios</h3>
       <sub>&nbsp;&nbsp;Design · Front-end · Infraestrutura</sub>
       <br clear="left"><br>
-      <p>Site do estúdio, do layout à publicação: identidade visual levada para a web, front-end responsivo e animado, e entrega de imagens e assets otimizada com Cloudflare R2 e Workers para carregar rápido em qualquer lugar.</p>
-      <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare_R2-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Workers-16181D?style=flat-square&logo=cloudflareworkers&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Figma-16181D?style=flat-square&logo=figma&logoColor=D1D5DB" />
+      <sub>Site do estúdio, do layout à publicação: identidade visual levada para a web, front-end responsivo e animado, e entrega de imagens e assets otimizada com Cloudflare R2 e Workers para carregar rápido em qualquer lugar.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare_R2-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Workers-16181D?style=flat-square&logo=cloudflareworkers&logoColor=D1D5DB" />
       <br><br>
       <a href="#"><img src="https://img.shields.io/badge/Visitar_site_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <img src="./assets/dash-player.png" alt="Logo Dash Player" height="72" align="left" />
+      &nbsp;&nbsp;<sub><code>DADOS · DASHBOARD</code></sub>
+      <h3>&nbsp;&nbsp;Dash Player</h3>
+      <sub>&nbsp;&nbsp;Dados · KPIs · Visualização</sub>
+      <br clear="left"><br>
+      <sub>Painel que transforma dados de jogadores em indicadores visuais: métricas de atividade, evolução ao longo do tempo e comparativos, com consultas otimizadas no banco e uma interface interativa para explorar os números.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
+      <br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto_%E2%86%92-0D0E11?style=for-the-badge" /></a>
       <br><br>
     </td>
   </tr>
