@@ -104,6 +104,8 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
       <br><br>
       <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" />
       <br><br>
+      <a href="https://downtownroleplay.com.br/"><img src="https://img.shields.io/badge/Acessar_site_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <br><br>
     </td>
     <td width="33%" valign="top">
       <sub><code>02 · SISTEMA INTERNO</code></sub>
@@ -111,6 +113,8 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
       <sub>Painel interno da equipe construído com Refine e TypeScript: gestão do projeto, dados centralizados e um front-end padronizado com lint para manter a base de código consistente.</sub>
       <br><br>
       <img src="https://img.shields.io/badge/TypeScript-16181D?style=flat-square&logo=typescript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Refine-16181D?style=flat-square&logo=refine&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/ESLint-16181D?style=flat-square&logo=eslint&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
+      <br><br>
+      <a href="https://dev.downtownrp.com.br/"><img src="https://img.shields.io/badge/Acessar_painel_%E2%86%92-0D0E11?style=for-the-badge" /></a>
       <br><br>
     </td>
     <td width="33%" valign="top">
@@ -120,12 +124,8 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
       <br><br>
       <img src="https://img.shields.io/badge/RedM-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/TypeScript-16181D?style=flat-square&logo=typescript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" />
       <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="right">
-      <a href="#"><img src="https://img.shields.io/badge/Site-0D0E11?style=for-the-badge" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Discord-0D0E11?style=for-the-badge&logo=discord&logoColor=D1D5DB" /></a>
+      <a href="https://connect.downtownroleplay.com.br/"><img src="https://img.shields.io/badge/Conectar_ao_servidor_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <br><br>
     </td>
   </tr>
 </table>
@@ -145,7 +145,7 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
       <br><br>
       <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare_R2-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Workers-16181D?style=flat-square&logo=cloudflareworkers&logoColor=D1D5DB" />
       <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Visitar_site_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <a href="https://kahlinizestudio.com.br/"><img src="https://img.shields.io/badge/Visitar_site_%E2%86%92-0D0E11?style=for-the-badge" /></a>
       <br><br>
     </td>
     <td width="50%" valign="top">
@@ -159,7 +159,7 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
       <br><br>
       <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
       <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <a href="https://www.dashplayer.com.br/"><img src="https://img.shields.io/badge/Visitar_site_%E2%86%92-0D0E11?style=for-the-badge" /></a>
       <br><br>
     </td>
   </tr>
