@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="178" height="40" viewBox="0 0 178 40">
+  <rect x=".5" y=".5" width="177" height="39" rx="8" fill="#16181d" stroke="#3a3d44"/>
+  <text x="24" y="25" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="600" letter-spacing="1.2" fill="#e5e7eb">PAINEL DEV</text>
+  <path d="M144 20h12M151 15l5 5-5 5" fill="none" stroke="#8fb4ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
