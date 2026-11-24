@@ -82,18 +82,34 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 
 <br>
 
-### `05` &nbsp;Projetos
+### `05` &nbsp;Principais projetos
 
-> [!NOTE]
-> Vitrine em construção. Enquanto isso, veja os [repositórios públicos](https://github.com/SauloAPeixoto?tab=repositories).
-
-<!--
-Modelo para fixar projetos (troque REPO):
-
-<a href="https://github.com/SauloAPeixoto/REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SauloAPeixoto&repo=REPO&hide_border=true&bg_color=0D0E11&title_color=F3F4F6&text_color=9CA3AF&icon_color=8FB4FF" width="49%" />
-</a>
--->
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <br>
+      <img src="./assets/projetos/downtown-roleplay.png" alt="Logo Downtown Roleplay" height="110" />
+      <h3>Downtown Roleplay</h3>
+      <sub><code>SERVIDOR DE ROLEPLAY</code></sub>
+      <p><sub>Desenvolvimento de sistemas sob medida para o servidor: scripts de gameplay, integração com banco de dados e interfaces imersivas para os jogadores.</sub></p>
+      <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/NUI_/_Front--end-16181D?style=flat-square" />
+      <br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <br><br>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br>
+      <img src="./assets/projetos/kahlinize-studios.png" alt="Logo Kahlinize Studios" height="110" />
+      <h3>Kahlinize Studios</h3>
+      <sub><code>SITE INSTITUCIONAL</code></sub>
+      <p><sub>Site do estúdio: front-end responsivo com foco em identidade visual e performance, e entrega de assets otimizada via Cloudflare.</sub></p>
+      <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" />
+      <br><br>
+      <a href="#"><img src="https://img.shields.io/badge/Visitar_site_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <br>
 
