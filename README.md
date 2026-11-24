@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Saulo Peixoto — Data Specialist · Data Engineering · Front-end" width="100%" />
+<img src="./assets/header.svg?v=2" alt="Saulo Peixoto — Data Specialist · Data Engineering · Front-end" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=720&lines=Transformo+dados+brutos+em+KPIs+que+orientam+decis%C3%B5es;Pipelines+confi%C3%A1veis%2C+do+banco+ao+dashboard;Interfaces+que+tornam+dados+f%C3%A1ceis+de+explorar;Performance+na+edge+com+Cloudflare" alt="Digitando..." />
 
@@ -20,7 +20,7 @@
 Sou especialista em dados com um pé no front-end. Construo **pipelines** que levam o dado da origem até o **indicador certo**, modelo bancos pensando em quem vai consultar, e desenvolvo **interfaces** que tornam essas informações simples de explorar. Quando performance importa, levo a entrega para a **edge** com Cloudflare.
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="SELECT area, foco, stack FROM saulo.competencias" width="88%" />
+  <img src="./assets/terminal.svg?v=2" alt="SELECT area, foco, stack FROM saulo.competencias" width="88%" />
 </div>
 
 <br>
