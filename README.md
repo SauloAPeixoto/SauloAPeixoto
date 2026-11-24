@@ -85,13 +85,13 @@ const saulo = {
  
 > 🚧 Estou preparando uma vitrine com meus melhores projetos. Enquanto isso, confira os [repositórios públicos](https://github.com/SauloAPeixoto?tab=repositories).
  
-
+<!--
 Modelo para quando os projetos estiverem prontos:
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Nome do projeto**](https://github.com/SauloAPeixoto/repo) | O que ele resolve, em uma linha | Lua · React · Cloudflare |
 | [**Nome do projeto**](https://github.com/SauloAPeixoto/repo) | O que ele resolve, em uma linha | Node.js · SQL |
-
+-->
  
 ---
  
