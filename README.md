@@ -1,23 +1,26 @@
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/main/profile/banner.png" alt="Banner de Saulo Peixoto" width="100%" />
+
 # Olá, eu sou o Saulo Peixoto 👋
- 
+
 ### Desenvolvedor Full Stack · Roleplay, interfaces imersivas e performance na edge
- 
+
 Crio **sistemas customizados para servidores de roleplay**, **interfaces rápidas e imersivas**<br>
 e **infraestrutura de entrega de conteúdo** com Cloudflare para comunidades que querem ir além do padrão.
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulopeixoto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saulo_peixoto)
 [![Discord](https://img.shields.io/badge/Discord-saulopeixoto.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/saulopeixoto.)
- 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SauloAPeixoto&color=blueviolet&style=flat-square&label=visitas)
- 
+
 </div>
+
 ---
- 
+
 ## 🚀 Sobre mim
- 
+
 ```javascript
 const saulo = {
   linguagens: ["Lua", "JavaScript", "HTML", "CSS", "SQL"],
@@ -30,11 +33,11 @@ const saulo = {
   curiosidade: "Transformo café em código e milissegundos em experiência ☕⚡",
 };
 ```
- 
+
 ---
- 
+
 ## 💼 O que eu faço
- 
+
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
@@ -54,57 +57,66 @@ const saulo = {
     </td>
   </tr>
 </table>
+
 ---
- 
+
 ## 🛠️ Stack
- 
+
 <div align="center">
+
 **Linguagens**<br>
 <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql" alt="Lua, JavaScript, HTML, CSS, MySQL" />
- 
+
 **Frameworks & runtime**<br>
 <img src="https://skillicons.dev/icons?i=nodejs,react,express" alt="Node.js, React, Express" />
- 
+
 **Cloud & ferramentas**<br>
 <img src="https://skillicons.dev/icons?i=cloudflare,workers,git,github,vscode,figma,webpack" alt="Cloudflare, Workers, Git, GitHub, VS Code, Figma, Webpack" />
- 
+
 </div>
+
 ---
- 
+
 ## 📊 Estatísticas
- 
+
 <div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&theme=tokyonight&border_radius=12&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+
 <br><br>
- 
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SauloAPeixoto&theme=tokyo-night&hide_border=true&radius=12" alt="Gráfico de atividade no GitHub" width="100%" />
+
 </div>
+
 ---
- 
+
 ## 🎯 Projetos em destaque
- 
+
 > 🚧 Estou preparando uma vitrine com meus melhores projetos. Enquanto isso, confira os [repositórios públicos](https://github.com/SauloAPeixoto?tab=repositories).
- 
+
 <!--
 Modelo para quando os projetos estiverem prontos:
+
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Nome do projeto**](https://github.com/SauloAPeixoto/repo) | O que ele resolve, em uma linha | Lua · React · Cloudflare |
 | [**Nome do projeto**](https://github.com/SauloAPeixoto/repo) | O que ele resolve, em uma linha | Node.js · SQL |
 -->
- 
+
 ---
- 
+
 ## 💬 Vamos conversar?
- 
+
 <div align="center">
+
 Precisa de um **sistema sob medida para o seu servidor**, de uma **interface que impressione**<br>
 ou de uma **entrega de conteúdo mais rápida com Cloudflare**? Me chama!
- 
+
 💼 [LinkedIn](https://www.linkedin.com/in/saulopeixoto/) · 🎮 Discord: `saulopeixoto.`
- 
+
 <br>
+
 <sub><i>"Transformando código em interfaces ultrarrápidas com o poder da edge computing."</i></sub>
- 
+
 </div>
- 
