@@ -1,111 +1,125 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Saulo Peixoto — Desenvolvedor Full Stack" width="100%" />
+<img src="./assets/header.svg" alt="Saulo Peixoto — Data Specialist · Data Engineering · Front-end" width="100%" />
 
-<a href="https://github.com/SauloAPeixoto">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Sistemas+sob+medida+para+servidores+de+roleplay;Interfaces+imersivas+que+prendem+o+jogador;Assets+voando+na+edge+com+Cloudflare+%E2%9A%A1;Transformo+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Digitando..." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=720&lines=Transformo+dados+brutos+em+KPIs+que+orientam+decis%C3%B5es;Pipelines+confi%C3%A1veis%2C+do+banco+ao+dashboard;Interfaces+que+tornam+dados+f%C3%A1ceis+de+explorar;Performance+na+edge+com+Cloudflare" alt="Digitando..." />
 
 <br>
 
-<a href="https://www.linkedin.com/in/saulopeixoto/"><img src="https://img.shields.io/badge/LinkedIn-0A0A14?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
-<a href="https://www.instagram.com/saulo_peixoto"><img src="https://img.shields.io/badge/Instagram-0A0A14?style=for-the-badge&logo=instagram&logoColor=FF4FD8" /></a>
-<a href="https://discord.com/users/saulopeixoto."><img src="https://img.shields.io/badge/Discord-saulopeixoto.-0A0A14?style=for-the-badge&logo=discord&logoColor=7C5CFF" /></a>
-<img src="https://komarev.com/ghpvc/?username=SauloAPeixoto&color=7c5cff&style=for-the-badge&label=VISITAS" />
+<a href="https://www.linkedin.com/in/saulopeixoto/"><img src="https://img.shields.io/badge/LinkedIn-111318?style=for-the-badge&logo=linkedin&logoColor=E5E7EB" /></a>
+<a href="https://www.instagram.com/saulo_peixoto"><img src="https://img.shields.io/badge/Instagram-111318?style=for-the-badge&logo=instagram&logoColor=E5E7EB" /></a>
+<a href="https://discord.com/users/saulopeixoto."><img src="https://img.shields.io/badge/Discord-saulopeixoto.-111318?style=for-the-badge&logo=discord&logoColor=E5E7EB" /></a>
+<img src="https://komarev.com/ghpvc/?username=SauloAPeixoto&color=111318&style=for-the-badge&label=VISITAS" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c5cff,50:00e5ff,100:ff4fd8&height=2" width="100%" />
+<br>
 
-## ⚡ Quem sou eu
+### `01` &nbsp;Sobre
+
+Sou especialista em dados com um pé no front-end. Construo **pipelines** que levam o dado da origem até o **indicador certo**, modelo bancos pensando em quem vai consultar, e desenvolvo **interfaces** que tornam essas informações simples de explorar. Quando performance importa, levo a entrega para a **edge** com Cloudflare.
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="const saulo = { ... }" width="88%" />
+  <img src="./assets/terminal.svg" alt="SELECT area, foco, stack FROM saulo.competencias" width="88%" />
 </div>
 
 <br>
 
-## 🧩 O que eu construo
+### `02` &nbsp;O que eu faço
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=lua" width="52" /><br><br>
-      <b>🎮 Sistemas para Roleplay</b><br><br>
-      <sub>Scripts em Lua, lógica de servidor e banco de dados feitos sob medida, pensados para escalar com a sua comunidade.</sub>
-      <br><br>
+    <td width="25%" valign="top">
+      <sub><code>DATA ENGINEERING</code></sub><br><br>
+      <b>Pipelines & modelagem</b><br>
+      <sub>ETL, integração de fontes, modelagem relacional e queries otimizadas para volume.</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=react" width="52" /><br><br>
-      <b>🖥️ Interfaces Imersivas</b><br><br>
-      <sub>Front-ends leves, responsivos e com animações que fazem o jogador sentir que está dentro do mundo.</sub>
-      <br><br>
+    <td width="25%" valign="top">
+      <sub><code>ANALYTICS</code></sub><br><br>
+      <b>KPIs & análises</b><br>
+      <sub>Definição de métricas, análises exploratórias e indicadores que viram decisão.</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <br>
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="52" /><br><br>
-      <b>🌐 CDN & Edge</b><br><br>
-      <sub>Cloudflare R2 e Workers para entregar assets em milissegundos, com armazenamento escalável e custo baixo.</sub>
-      <br><br>
+    <td width="25%" valign="top">
+      <sub><code>FRONT-END</code></sub><br><br>
+      <b>Interfaces & interações</b><br>
+      <sub>Dashboards e telas responsivas, com interações que deixam o dado legível.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <sub><code>CLOUD</code></sub><br><br>
+      <b>Edge & entrega</b><br>
+      <sub>Cloudflare R2 e Workers para servir dados e assets com baixa latência.</sub>
     </td>
   </tr>
 </table>
 
-## 🛠️ Arsenal
+<br>
+
+### `03` &nbsp;Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql&theme=dark&perline=5" /><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,react,express,cloudflare,workers&theme=dark&perline=5" /><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack&theme=dark&perline=5" />
+<sub><code>DADOS</code></sub><br>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite&theme=dark" />
+
+<sub><code>FRONT-END</code></sub><br>
+<img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" />
+
+<sub><code>BACK-END & CLOUD</code></sub><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,lua,cloudflare,workers&theme=dark" />
+
+<sub><code>FERRAMENTAS</code></sub><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
-## 📈 No GitHub
+<br>
+
+### `04` &nbsp;Atividade
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&theme=tokyonight&hide_border=true&border_radius=14&background=0A0A14&ring=7C5CFF&fire=FF4FD8&currStreakLabel=00E5FF&locale=pt_BR" />
+<img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&hide_border=true&border_radius=12&background=0D0E11&stroke=2A2D33&ring=8FB4FF&fire=8FB4FF&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=D1D5DB&sideLabels=9CA3AF&dates=6B7280&locale=pt_BR" />
+
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SauloAPeixoto&bg_color=0A0A14&color=c9c9ff&line=7c5cff&point=00e5ff&area=true&area_color=7c5cff&hide_border=true&radius=14&custom_title=Atividade%20recente" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SauloAPeixoto&bg_color=0D0E11&color=9CA3AF&title_color=F3F4F6&line=E5E7EB&point=8FB4FF&area=true&area_color=8FB4FF&hide_border=true&radius=12&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%" />
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-light.svg" />
-  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-dark.svg" width="100%" />
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-## 🚀 Projetos em destaque
+<br>
+
+### `05` &nbsp;Projetos
 
 > [!NOTE]
-> 🚧 A vitrine está sendo montada. Enquanto isso, explore os [repositórios públicos](https://github.com/SauloAPeixoto?tab=repositories).
+> Vitrine em construção. Enquanto isso, veja os [repositórios públicos](https://github.com/SauloAPeixoto?tab=repositories).
 
 <!--
-Quando quiser mostrar projetos, use este modelo (troque REPO e a descrição):
+Modelo para fixar projetos (troque REPO):
 
 <a href="https://github.com/SauloAPeixoto/REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SauloAPeixoto&repo=REPO&theme=tokyonight&hide_border=true&bg_color=0A0A14&title_color=00E5FF&icon_color=FF4FD8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SauloAPeixoto&repo=REPO&hide_border=true&bg_color=0D0E11&title_color=F3F4F6&text_color=9CA3AF&icon_color=8FB4FF" width="49%" />
 </a>
 -->
 
-## 💬 Bora tirar sua ideia do papel?
+<br>
 
-<div align="center">
+### `06` &nbsp;Contato
 
-**Servidor precisando de sistemas exclusivos? Interface que impressione? Site que carrega num piscar de olhos?**<br>
-É exatamente isso que eu faço.
+Tem dados espalhados e precisa de indicadores confiáveis? Um dashboard que as pessoas realmente usem? Vamos conversar.
+
+<a href="https://www.linkedin.com/in/saulopeixoto/"><img src="https://img.shields.io/badge/LinkedIn-saulopeixoto-111318?style=flat-square&logo=linkedin&logoColor=E5E7EB&labelColor=111318" /></a>
+<a href="https://discord.com/users/saulopeixoto."><img src="https://img.shields.io/badge/Discord-saulopeixoto.-111318?style=flat-square&logo=discord&logoColor=E5E7EB&labelColor=111318" /></a>
 
 <br>
 
-<a href="https://discord.com/users/saulopeixoto."><img src="https://img.shields.io/badge/Chamar_no_Discord-7C5CFF?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/saulopeixoto/"><img src="https://img.shields.io/badge/Conectar_no_LinkedIn-00A3CC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<div align="center">
+<sub><code>SELECT 'obrigado pela visita' AS mensagem;</code></sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,50:00e5ff,100:ff4fd8&height=120&section=footer&text=edge%20computing%20%E2%9A%A1&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" />
