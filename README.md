@@ -125,9 +125,9 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
   <tr>
     <td colspan="3" align="center">
       <br>
-      <a href="https://downtownroleplay.com.br/"><img src="https://img.shields.io/badge/Site-0D0E11?style=for-the-badge&logo=googlechrome&logoColor=D1D5DB" alt="Site" /></a>
-      <a href="https://dev.downtownrp.com.br/"><img src="https://img.shields.io/badge/Painel_Dev-0D0E11?style=for-the-badge&logo=refine&logoColor=D1D5DB" alt="Painel Dev" /></a>
-      <a href="https://connect.downtownroleplay.com.br/"><img src="https://img.shields.io/badge/Conectar_ao_servidor-0D0E11?style=for-the-badge&logo=rockstargames&logoColor=D1D5DB" alt="Conectar ao servidor" /></a>
+      <a href="https://downtownroleplay.com.br/"><img src="./assets/botoes/site.svg" alt="Site" height="40" /></a>
+      <a href="https://dev.downtownrp.com.br/"><img src="./assets/botoes/painel-dev.svg" alt="Painel Dev" height="40" /></a>
+      <a href="https://connect.downtownroleplay.com.br/"><img src="./assets/botoes/conectar-servidor.svg" alt="Conectar ao servidor" height="40" /></a>
       <br><br>
     </td>
   </tr>
@@ -165,12 +165,12 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
   <tr>
     <td width="50%" align="center">
       <br>
-      <a href="https://kahlinizestudio.com.br/"><img src="https://img.shields.io/badge/Visitar_site-0D0E11?style=for-the-badge&logo=googlechrome&logoColor=D1D5DB" alt="Visitar site" /></a>
+      <a href="https://kahlinizestudio.com.br/"><img src="./assets/botoes/visitar-site.svg" alt="Visitar site" height="40" /></a>
       <br><br>
     </td>
     <td width="50%" align="center">
       <br>
-      <a href="https://www.dashplayer.com.br/"><img src="https://img.shields.io/badge/Visitar_site-0D0E11?style=for-the-badge&logo=googlechrome&logoColor=D1D5DB" alt="Visitar site" /></a>
+      <a href="https://www.dashplayer.com.br/"><img src="./assets/botoes/visitar-site.svg" alt="Visitar site" height="40" /></a>
       <br><br>
     </td>
   </tr>
