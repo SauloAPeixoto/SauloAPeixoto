@@ -54,40 +54,29 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 
 <br>
 
-### `03` &nbsp;Stack
-
 <table>
   <tr>
-    <td width="160"><sub><code>DADOS</code></sub></td>
-    <td><img src="https://img.shields.io/badge/Python-16181D?style=flat-square&logo=python&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/PostgreSQL-16181D?style=flat-square&logo=postgresql&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQLite-16181D?style=flat-square&logo=sqlite&logoColor=D1D5DB" /></td>
-  </tr>
-  <tr>
-    <td width="160"><sub><code>FRONT-END</code></sub></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /></td>
-  </tr>
-  <tr>
-    <td width="160"><sub><code>BACK-END</code></sub></td>
-    <td><img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /></td>
-  </tr>
-  <tr>
-    <td width="160"><sub><code>CLOUD</code></sub></td>
-    <td><img src="https://img.shields.io/badge/Cloudflare-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/R2-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Workers-16181D?style=flat-square&logo=cloudflareworkers&logoColor=D1D5DB" /></td>
-  </tr>
-  <tr>
-    <td width="160"><sub><code>FERRAMENTAS</code></sub></td>
-    <td><img src="https://img.shields.io/badge/Git-16181D?style=flat-square&logo=git&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/GitHub-16181D?style=flat-square&logo=github&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/VS_Code-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/Figma-16181D?style=flat-square&logo=figma&logoColor=D1D5DB" /></td>
+    <td width="50%" valign="top">
+      <h3><code>03</code>&nbsp; Stack</h3>
+      <sub><code>DADOS</code></sub><br>
+      <img src="https://img.shields.io/badge/Python-16181D?style=flat-square&logo=python&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/PostgreSQL-16181D?style=flat-square&logo=postgresql&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQLite-16181D?style=flat-square&logo=sqlite&logoColor=D1D5DB" /><br><br>
+      <sub><code>FRONT-END</code></sub><br>
+      <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /><br><br>
+      <sub><code>BACK-END</code></sub><br>
+      <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /><br><br>
+      <sub><code>CLOUD</code></sub><br>
+      <img src="https://img.shields.io/badge/Cloudflare-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/R2-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Workers-16181D?style=flat-square&logo=cloudflareworkers&logoColor=D1D5DB" /><br><br>
+      <sub><code>FERRAMENTAS</code></sub><br>
+      <img src="https://img.shields.io/badge/Git-16181D?style=flat-square&logo=git&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/GitHub-16181D?style=flat-square&logo=github&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/VS_Code-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/Figma-16181D?style=flat-square&logo=figma&logoColor=D1D5DB" /><br><br>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>04</code>&nbsp; Atividade</h3>
+      <img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&hide_border=true&border_radius=12&background=0D0E11&stroke=2A2D33&ring=8FB4FF&fire=8FB4FF&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=D1D5DB&sideLabels=9CA3AF&dates=6B7280&locale=pt_BR" width="100%" />
+    </td>
   </tr>
 </table>
 
-<br>
-
-### `04` &nbsp;Atividade
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SauloAPeixoto&hide_border=true&border_radius=12&background=0D0E11&stroke=2A2D33&ring=8FB4FF&fire=8FB4FF&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=D1D5DB&sideLabels=9CA3AF&dates=6B7280&locale=pt_BR" />
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SauloAPeixoto&bg_color=0D0E11&color=9CA3AF&title_color=F3F4F6&line=E5E7EB&point=8FB4FF&area=true&area_color=8FB4FF&hide_border=true&radius=12&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%" />
 
