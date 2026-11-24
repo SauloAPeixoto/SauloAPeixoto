@@ -86,24 +86,63 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td colspan="3">
       <br>
-      <img src="./assets/downtown-roleplay.png" alt="Logo Downtown Roleplay" height="110" />
-      <h3>Downtown Roleplay</h3>
-      <sub><code>SERVIDOR DE ROLEPLAY</code></sub>
-      <p><sub>Desenvolvimento de sistemas sob medida para o servidor: scripts de gameplay, integração com banco de dados e interfaces imersivas para os jogadores.</sub></p>
-      <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/SQL-16181D?style=flat-square" /> <img src="https://img.shields.io/badge/NUI_/_Front--end-16181D?style=flat-square" />
+      <img src="./assets/projetos/downtown-roleplay.png" alt="Logo Downtown Roleplay" height="96" align="left" />
+      &nbsp;&nbsp;<sub><code>ECOSSISTEMA</code> &nbsp; <code>3 REPOSITÓRIOS</code></sub>
+      <h3>&nbsp;&nbsp;Downtown Roleplay</h3>
+      <sub>&nbsp;&nbsp;Site · Sistema interno de Dev · Servidor de jogo</sub>
+      <br clear="left"><br>
+      <p>Mais do que um servidor de roleplay, a Downtown é um <b>ecossistema completo</b> que eu desenvolvo e mantenho de ponta a ponta. São três frentes em repositórios separados, que funcionam como um produto só: o <b>site</b> é a porta de entrada da comunidade, o <b>sistema interno de Dev</b> organiza o trabalho da equipe por trás do projeto e o <b>servidor</b> entrega a experiência dentro do jogo. Cada parte tem sua própria stack, mas todas compartilham a mesma base de dados, identidade visual e padrão de código.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><code>01 · SITE</code></sub>
+      <h4>Portal da comunidade</h4>
+      <sub>Apresentação do servidor, informações para novos jogadores e canal oficial da comunidade, com front-end responsivo e assets servidos pela Cloudflare.</sub>
       <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Ver_projeto_%E2%86%92-0D0E11?style=for-the-badge" /></a>
+      <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" />
       <br><br>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top">
+      <sub><code>02 · SISTEMA INTERNO</code></sub>
+      <h4>Plataforma de Dev</h4>
+      <sub>Ferramenta interna da equipe para acompanhar o desenvolvimento: organização de tarefas, controle de versões e dados que apoiam as decisões do projeto.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Express-16181D?style=flat-square&logo=express&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
+      <br><br>
+    </td>
+    <td width="33%" valign="top">
+      <sub><code>03 · SERVIDOR</code></sub>
+      <h4>Servidor de jogo</h4>
+      <sub>Repositório próprio com os sistemas de gameplay, as interfaces (NUI) e a integração com o banco de dados, tudo feito sob medida para a cidade.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/FiveM-16181D?style=flat-square&logo=fivem&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Lua-16181D?style=flat-square&logo=lua&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/MySQL-16181D?style=flat-square&logo=mysql&logoColor=D1D5DB" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="right">
+      <a href="#"><img src="https://img.shields.io/badge/Site-0D0E11?style=for-the-badge" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Discord-0D0E11?style=for-the-badge&logo=discord&logoColor=D1D5DB" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td>
       <br>
-      <img src="./assets/kahlinize-studios.png" alt="Logo Kahlinize Studios" height="110" />
-      <h3>Kahlinize Studios</h3>
-      <sub><code>SITE INSTITUCIONAL</code></sub>
-      <p><sub>Site do estúdio: front-end responsivo com foco em identidade visual e performance, e entrega de assets otimizada via Cloudflare.</sub></p>
-      <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" />
+      <img src="./assets/projetos/kahlinize-studios.png" alt="Logo Kahlinize Studios" height="96" align="left" />
+      &nbsp;&nbsp;<sub><code>SITE INSTITUCIONAL</code></sub>
+      <h3>&nbsp;&nbsp;Kahlinize Studios</h3>
+      <sub>&nbsp;&nbsp;Design · Front-end · Infraestrutura</sub>
+      <br clear="left"><br>
+      <p>Site do estúdio, do layout à publicação: identidade visual levada para a web, front-end responsivo e animado, e entrega de imagens e assets otimizada com Cloudflare R2 e Workers para carregar rápido em qualquer lugar.</p>
+      <img src="https://img.shields.io/badge/HTML5-16181D?style=flat-square&logo=html5&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/CSS-16181D?style=flat-square&logo=css&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/JavaScript-16181D?style=flat-square&logo=javascript&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/React-16181D?style=flat-square&logo=react&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Node.js-16181D?style=flat-square&logo=nodedotjs&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Cloudflare_R2-16181D?style=flat-square&logo=cloudflare&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Workers-16181D?style=flat-square&logo=cloudflareworkers&logoColor=D1D5DB" /> <img src="https://img.shields.io/badge/Figma-16181D?style=flat-square&logo=figma&logoColor=D1D5DB" />
       <br><br>
       <a href="#"><img src="https://img.shields.io/badge/Visitar_site_%E2%86%92-0D0E11?style=for-the-badge" /></a>
       <br><br>
