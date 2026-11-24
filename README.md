@@ -88,7 +88,7 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
   <tr>
     <td colspan="3">
       <br>
-      <img src="./assets/projetos/downtown-roleplay.png" alt="Logo Downtown Roleplay" height="96" align="left" />
+      <img src="./assets/downtown-roleplay.png" alt="Logo Downtown Roleplay" height="96" align="left" />
       &nbsp;&nbsp;<sub><code>ECOSSISTEMA</code> &nbsp; <code>3 REPOSITÓRIOS</code></sub>
       <h3>&nbsp;&nbsp;Downtown Roleplay</h3>
       <sub>&nbsp;&nbsp;Site · Sistema interno de Dev · Servidor de jogo</sub>
@@ -136,7 +136,7 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
   <tr>
     <td>
       <br>
-      <img src="./assets/projetos/kahlinize-studios.png" alt="Logo Kahlinize Studios" height="96" align="left" />
+      <img src="./assets/kahlinize-studios.png" alt="Logo Kahlinize Studios" height="96" align="left" />
       &nbsp;&nbsp;<sub><code>SITE INSTITUCIONAL</code></sub>
       <h3>&nbsp;&nbsp;Kahlinize Studios</h3>
       <sub>&nbsp;&nbsp;Design · Front-end · Infraestrutura</sub>
