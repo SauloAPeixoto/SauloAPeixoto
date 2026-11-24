@@ -165,12 +165,12 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
   <tr>
     <td width="50%" align="center">
       <br>
-      <a href="https://kahlinizestudio.com.br/"><img src="./assets/botoes/visitar-site.svg" alt="Visitar site" height="40" /></a>
+      <a href="https://kahlinizestudio.com.br/"><img src="./assets/botoes/visitar-site.svg" alt="Conhecer Projeto" height="40" /></a>
       <br><br>
     </td>
     <td width="50%" align="center">
       <br>
-      <a href="https://www.dashplayer.com.br/"><img src="./assets/botoes/visitar-site.svg" alt="Visitar site" height="40" /></a>
+      <a href="https://www.dashplayer.com.br/"><img src="./assets/botoes/visitar-site.svg" alt="Conhecer Projeto" height="40" /></a>
       <br><br>
     </td>
   </tr>
