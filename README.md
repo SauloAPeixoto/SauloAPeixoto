@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=2" alt="Saulo Peixoto — Data Specialist · Data Engineering · Front-end" width="100%" />
+<img src="./assets/header.svg?v=3" alt="Saulo Peixoto — Data Specialist · Data Engineering · Front-end" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=720&lines=Transformo+dados+brutos+em+KPIs+que+orientam+decis%C3%B5es;Pipelines+confi%C3%A1veis%2C+do+banco+ao+dashboard;Interfaces+que+tornam+dados+f%C3%A1ceis+de+explorar;Performance+na+edge+com+Cloudflare" alt="Digitando..." />
 
@@ -20,7 +20,7 @@
 Sou especialista em dados com um pé no front-end. Construo **pipelines** que levam o dado da origem até o **indicador certo**, modelo bancos pensando em quem vai consultar, e desenvolvo **interfaces** que tornam essas informações simples de explorar. Quando performance importa, levo a entrega para a **edge** com Cloudflare.
 
 <div align="center">
-  <img src="./assets/terminal.svg?v=2" alt="SELECT area, foco, stack FROM saulo.competencias" width="88%" />
+  <img src="./assets/terminal.svg?v=3" alt="SELECT area, foco, stack FROM saulo.competencias" width="88%" />
 </div>
 
 <br>
@@ -56,7 +56,7 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 
 ### `03` &nbsp;Stack
 
-<img src="./assets/stack.svg?v=2" alt="Stack: Python, SQL, MySQL, PostgreSQL, SQLite, JavaScript, TypeScript, React, Refine, HTML5, CSS, Node.js, Express, Lua, RedM, Cloudflare, R2, Workers, Git, GitHub, VS Code, ESLint" width="100%" />
+<img src="./assets/stack.svg?v=3" alt="Stack: Python, SQL, MySQL, PostgreSQL, SQLite, JavaScript, TypeScript, React, Refine, HTML5, CSS, Node.js, Express, Lua, RedM, Cloudflare, R2, Workers, Git, GitHub, VS Code, ESLint" width="100%" />
 
 <br>
 
@@ -73,9 +73,9 @@ Sou especialista em dados com um pé no front-end. Construo **pipelines** que le
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-light.svg?v=2" />
-  <img alt="Contribuições" src="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-dark.svg?v=2" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-light.svg?v=3" />
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/SauloAPeixoto/SauloAPeixoto/output/snake-dark.svg?v=3" width="100%" />
 </picture>
 
 </div>
